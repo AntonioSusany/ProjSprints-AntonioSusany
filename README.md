@@ -24,5 +24,35 @@ Para el alumno, el usuario tendra un menu inferior constante en el que tendra tr
 
 ![homealumne](HomeAlumne.png)
 
-![inboxalumno)(InboxAlumne.png)
+# INBOX
+![inboxalumno](InboxAlumne.png)
+
+# DATOS PERSONALES
+
+![useralumne](UserAlumne.png)
+
+## PROFESOR
+
+# HOME
+
+![homeprofesor](HomeProfessor.png)
+
+# INBOX
+
+![inboxprofesor](InboxProfessor.png)
+
+# DATOS PERSONALES
+
+![userprofesor](UserProfessor.png)
+
+# PASSAR LLISTA
+
+![pasarlista](PassarLlistaProfesor.png)
+
+## ADMIN
+
+![admin](Admin.png)
+
+
+
 
