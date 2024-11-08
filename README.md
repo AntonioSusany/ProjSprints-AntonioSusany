@@ -12,3 +12,17 @@ Cuando acabe pulsará el botón y tendrá que ingersar la contraseña y pulsar e
 
 ![creacionusuario2](CreacioUsuari2.png)
 
+Una vez el usuario esta creado saldrá un mensaje como el siguiente:
+
+![creaciousuari3](CreacioUsuari3.png)
+
+## ALUMNO
+
+Para el alumno, el usuario tendra un menu inferior constante en el que tendra tres apartados:
+
+# HOME
+
+![homealumne](HomeAlumne.png)
+
+![inboxalumno)(InboxAlumne.png)
+
